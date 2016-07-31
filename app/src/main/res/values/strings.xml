@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Workout</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="textadaptive">Adaptive</string>
+    <string name="tabcustomize">Customize</string>
+    <string name="tabworkout">Workout</string>
+    <string name="textcircuit">Circuits</string>
+    <string name="textparts">Parts</string>
+    <string name="textfullbody">Full Body</string>
+    <string name="textarms">Arms</string>
+    <string name="checkcore">Core</string>
+    <string name="checklegs">Legs</string>
+    <string name="textgoals">Goals</string>
+    <string name="checkfatloss">Fat Loss</string>
+    <string name="checkmassgain">Mass Gain</string>
+    <string name="checkcardio">Cardio</string>
+    <string name="checkstrength">Strength</string>
+    <string name="checkstomach">Stomach</string>
+    <string name="textintensity">intensity</string>
+    <string name="checkflexibility">Flexibility</string>
+    <string name="menu_share" />
+    <string name="duration">Duration</string>
+    <string name="donotdisturb">Do Not Disturb</string>
+</resources>
